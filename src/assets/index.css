@@ -1,0 +1,26 @@
+.list {
+  margin-left: 15px;
+}
+.date {
+  display: flex;
+  margin-top: 10px;
+  width: 50%;
+  justify-content: space-around;
+}
+.review-display {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding-left: 5px;
+  justify-content: space-evenly;
+}
+.delete-btn {
+  margin-left: 15px;
+}
+.syllabus-display{
+  display: flex;
+  flex-direction: row;
+  flex-wrap:wrap;
+  padding-left: 5px;
+  justify-content:space-evenly ;
+}
